@@ -1,5 +1,6 @@
 # Depolying wordpress using aws and terraform 
 This is to host wordpress using terraform for automation and high scalabilty.
+
 ![Image](https://github.com/user-attachments/assets/99f02973-e6db-420a-b7b5-d1a568407c03)
 
 Getting started
